@@ -1,0 +1,10 @@
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\bin\Debug\Luis_Bazaldua_GOL.exe.config
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\bin\Debug\Luis_Bazaldua_GOL.exe
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\bin\Debug\Luis_Bazaldua_GOL.pdb
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.csprojAssemblyReference.cache
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.Form1.resources
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.Properties.Resources.resources
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.csproj.GenerateResource.cache
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.csproj.CoreCompileInputs.cache
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.exe
+D:\OneDrive - Full Sail University\Visual Studios\Project Portfolio I\Luis_Bazaldua_GOL\Luis_Bazaldua_GOL\obj\Debug\Luis_Bazaldua_GOL.pdb
